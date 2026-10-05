@@ -32,6 +32,7 @@ API 인증키는 보안을 위해 소스코드에 포함하지 않았습니다.
 
 Google Apps Script의 Script Properties에
 `BUS_API_KEY`라는 이름으로 본인의 API 인증키를 등록한 후 실행할 수 있습니다.
+신규 실시간 데이터 수집 시에만 공공데이터포털 OpenAPI 활용신청 및 인증키 발급이 필요합니다.
 
 ## 주요 분석 환경
 
